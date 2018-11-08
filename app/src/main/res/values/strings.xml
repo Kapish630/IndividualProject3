@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IndividualProject3</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="dob">Date of Birth</string>
+    <string name="submit">Submit Form</string>
+    <string name="signIn">Sign In</string>
+    <string name="register">Register</string>
+    <string name="submit2">Submit Form</string>
+    <string name="parent">Are you a Parent?</string>
+    <string name="pref_file_key">AccountInfo</string>
+    <string name="pref_file_key2">Scores</string>
+</resources>
